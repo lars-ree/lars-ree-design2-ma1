@@ -1,0 +1,55 @@
+body {
+    background: rgb(246, 246, 246);
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.menu {
+    background: rgb(198, 249, 198);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    outline: none;
+
+}
+
+li {
+    font-size: 25px;
+    list-style: none;
+}
+
+a {
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.card {
+    margin-left: 300px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    border: solid 1px black;
+    height: 250px;
+    width: 300px;
+
+}
+
+h1 {
+    text-align: center;
+}
+footer {
+    height: 10vh;
+    background: violet;
+}
+
+.cr {
+    text-align: center;
+}
