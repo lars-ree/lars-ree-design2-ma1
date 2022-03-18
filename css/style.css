@@ -1,7 +1,7 @@
 body {
-    background: rgb(246, 246, 246);
+    background: rgb(207, 171, 160);
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'dosis';
     margin: 0;
     padding: 0;
     height: 100%;
@@ -9,8 +9,7 @@ body {
 
 .menu {
     position: relative;
-    background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgb(173, 225, 167) 12%, rgb(80, 186, 133) 30%);
+    background: rgb(218, 202, 189);
     height: 10vh;
 }
 
@@ -49,6 +48,8 @@ h1 {
     text-align: center;
 }
 footer {
+    background: rgb(218, 202, 189);
+
   padding: 20px;
   display: flex;
   justify-content: space-evenly;
@@ -56,4 +57,7 @@ footer {
 
 .cr {
     text-align: center;
+}
+.social {
+    width: 25px;
 }
