@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 body {
-    background: rgb(207, 171, 160);
+    background: rgb(218, 171, 160);
     background-image: url(../images/pexels-henry-&-co-1939485.jpg);
    background-repeat: repeat;
     box-sizing: border-box;
@@ -84,7 +84,7 @@ main {
     font-size: 20px;
 }
 button {
-    background: rgba(207, 171, 160, 0.95);
+    background: rgba(218, 171, 160, 0.95);
     border: solid 1px black;
     border-radius: 6px;
     padding: 4px;
@@ -94,7 +94,7 @@ h1 {
     text-align: center;
 }
 .text {
-    background: rgba(207, 171, 160, 0.7);
+    background: rgba(218, 171, 160, 0.7);
     border-radius: 6px;
     text-align: center;
     margin-left: 100px;
