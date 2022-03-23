@@ -9,3 +9,34 @@
     border-radius: 16px;
     border: solid 1px black;
 }
+
+.product-card {
+    background: rgba(218, 202, 189, 0.6);
+    border: solid 1px black;
+    border-radius: 16px;
+    max-width: 500px;
+    margin: 10px;
+    text-align: center;
+}
+.product-card img {
+    height: 250px;
+    border-radius: 16px;
+    border-bottom: 1px solid black;
+}
+
+.product-card a {
+    background: rgba(218, 202, 189, 0.6);
+    text-decoration: none;
+}
+
+.product-card .price {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.devider {
+    height: 30px;
+    margin: 25px;
+    background: rgba(218, 202, 189, 0.8);
+    border-bottom: 1px solid black;
+}
