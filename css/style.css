@@ -3,7 +3,7 @@ html {
 }
 body {
     background: rgb(218, 171, 160);
-    background-image: url(../images/pexels-henry-&-co-1939485.jpg);
+    background-image: url(../images/pexels-aleksandar-pasaric-1323712.jpg);
    background-repeat: repeat;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
@@ -160,4 +160,10 @@ footer a:hover {
     .logo img {
         max-width: 120px;
     }
+  }
+
+  .homelogo img{
+    max-width: 40px;
+    padding: 0;
+    margin: 0;
   }

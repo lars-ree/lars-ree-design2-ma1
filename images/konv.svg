@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(360 -375)">
+      <line id="Line_5" data-name="Line 5" x2="214" transform="translate(492.5 855.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_6" data-name="Line 6" x2="214" transform="translate(493 975.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_7" data-name="Line 7" y2="120" transform="translate(492.5 855.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_8" data-name="Line 8" y2="120" transform="translate(707.5 855.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(707 926) rotate(180)" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 207.2896270751953 68 L 6.710378646850586 68 L 107 2.389967203140259 L 207.2896270751953 68 Z" stroke="none"/>
+        <path d="M 107 4.779922485351562 L 13.42073059082031 66 L 200.5792694091797 66 L 107 4.779922485351562 M 107 0 L 214 70 L 0 70 L 107 0 Z" stroke="none" fill="#000"/>
+      </g>
+    </g>
+  </g>
+</svg>
