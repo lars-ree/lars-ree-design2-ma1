@@ -142,28 +142,70 @@ footer a:hover {
       display: block;
     }
     nav {
-        padding: 10px;
+        padding: 5px;
         text-align: center;
         display: inline-block;
     }
     .menu a {
-        font-size: 16px;
+        font-size: 15px;
     }
     .logo img {
-        max-width: 120px;
+        max-width: 100px;
     }
+    .home {
+        display: none;
+    }
+    .homeicon {
+       justify-content: center;
+        display: block;
+      width: 20px;
+      height: 20px;
+  }
+  .menu li{
+
+  margin: 16px;
+    
+  }
   }
 @media only screen and (max-width: 600px) {
     body {
       display: block;
     }
+
     .logo img {
         max-width: 120px;
     }
+    .search img{
+        max-width: 20px;
+        padding: 0;
+        margin-top: 5px;
+      }
+      .home {
+          display: none;
+      }
+      .homeicon {
+        justify-content: center;
+          display: block;
+        width: 20px;
+        height: 20px;
+    }
+    .menu li{
+
+    margin: 16px;
+      
+    }
   }
 
-  .homelogo img{
+  .search img{
     max-width: 40px;
     padding: 0;
     margin: 0;
   }
+  @media only screen and (min-width: 900px) {
+  .homeicon {
+      display: none;
+      width: 20px;
+      height: 20px;
+  }
+ 
+}
